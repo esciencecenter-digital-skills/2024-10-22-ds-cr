@@ -1,2 +1,2 @@
 venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor
-Netherlands eScience Center,"Science Park 402, 1098 XH Amsterdam",NA,52.3566292,4.9568662,"October 22 - 23, 2024",9:30 - 17:00 CEST,2024-10-21T22:00:00Z,2024-10-22T22:00:00Z,"Sander van Rijn, Olga Lyashevska", "Carlos Murilo Romero Rocha","ds","ds-cr",Good Practices in Research Software Development,2024-10-22-ds-cr,NA
+Netherlands eScience Center,"Science Park 402, 1098 XH Amsterdam",NA,52.3566292,4.9568662,"October 22 - 23, 2024",9:30 - 17:00 CEST,2024-10-21T22:00:00Z,2024-10-22T22:00:00Z,"Sander van Rijn, Olga Lyashevska", Carlos Murilo Romero Rocha,ds,ds-cr,Good Practices in Research Software Development,2024-10-22-ds-cr,NA
